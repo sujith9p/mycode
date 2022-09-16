@@ -1,1 +1,29 @@
 https://labs.alta3.com/pdf/sujith.panayamthatta-at-jpmchase.com_ansible-101-labs.pdf
+
+https://live.alta3.com/groups/brawny-oxes-juggled/dashboard
+
+
+
+
+from Chad Feeser to everyone:    8:59 AM
+HOW LONG DO WE HAVE ACCESS?
+Labs/Slides/Videos-- online access for ONE YEAR
+Later today: email PDF version of the course
+EXPIRING FRIDAY: tmux will expire when class ends
+
+
+
+
+https://docs.ansible.com/ansible/latest/collections/ansible/builtin/apt_module.html
+
+
+https://docs.ansible.com/ansible/devel/collections/netapp/ontap/
+
+
+https://labs.alta3.com/pdf/sujith.panayamthatta-at-jpmchase.com_ansible-101-labs.pdf
+
+https://github.com/csfeeser/ansible_essentials/blob/main/thursday_challenge.md
+
+https://github.com/csfeeser/ansible_essentials/blob/main/jpmc_finalchallenge.md 
+
+https://live.alta3.com/content/ansible/labs/content/ansible/LAB_ansible_collections_intro.html
